@@ -6,14 +6,14 @@ It includes sequence retrieval, multiple sequence alignment, and protein propert
 ## Contents
 
 ### 1. Sequence_Retrieval
-- FASTA files downloaded from NCBI.
+- FASTA file downloaded from NCBI.
 - Notes on accession numbers.
 - Basic sequence handling.
 
 ### 2. Alignments
-- Multiple sequence alignments performed using MEGA.
-- Alignment output files.
-- Notes on conserved regions or motifs.
+- Multiple sequence alignment performed using MEGA.
+- Alignment output file.
+- Notes on conserved regions and motifs.
 
 ### 3. Protein_Properties
 - Physicochemical property analysis using ProtParam.
